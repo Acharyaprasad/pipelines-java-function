@@ -1,6 +1,6 @@
 variables: 
 serviceConnectionToAzure: 'Service040320' 
-appName: Func4JavaApp 
+appName: 'Func4JavaApp' 
 
 trigger:
 - master
